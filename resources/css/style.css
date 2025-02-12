@@ -47,3 +47,9 @@ h4 a {
 .bottom-phone {
     text-align: center;
 }
+
+/* Footer */
+
+footer {
+    text-align: right;
+}
